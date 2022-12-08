@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 2e5c6f24b3a31724b871eac0e0e2934a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4689778570525520347
+    second: Down_obs_0
+  - first:
+      213: 1141657312838082036
+    second: Down_obs_1
+  - first:
+      213: -5953209432568390493
+    second: Down_obs_2
+  - first:
+      213: 5735907538304025631
+    second: Down_obs_3
+  - first:
+      213: -2593473537966860535
+    second: Down_obs_4
+  - first:
+      213: 254383628348584795
+    second: Down_obs_5
+  - first:
+      213: -6087665381114208572
+    second: Down_obs_6
+  - first:
+      213: 3620847175576325267
+    second: Down_obs_7
+  - first:
+      213: -1510208166306842371
+    second: Down_obs_8
+  - first:
+      213: 6190674487875790086
+    second: Down_obs_9
+  - first:
+      213: 8793181134165668045
+    second: Down_obs_10
+  - first:
+      213: -5284918784376510959
+    second: Down_obs_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Down_obs_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 119
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: 335.5}
+        - {x: -59.5, y: 261.5}
+        - {x: -59.5, y: -336.5}
+        - {x: 59.5, y: -336.5}
+        - {x: 59.5, y: 257.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4694dc3f8aeeb0800000000000000
+      internalID: -4689778570525520347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 141
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd0faf64bf7df00800000000000000
+      internalID: 1141657312838082036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 94
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac91420093f16da0800000000000000
+      internalID: -5953209432568390493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 163
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c81514890a9f40800000000000000
+      internalID: 5735907538304025631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 139
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 45.897373, y: -186.01756}
+        - {x: 33.592686, y: -195.24158}
+        - {x: 64.35441, y: -93.77745}
+        - {x: 38.206944, y: -92.24011}
+        - {x: 32.0546, y: -101.46413}
+        - {x: 69.5, y: -35.35871}
+        - {x: 55.5, y: 5}
+        - {x: 45.5, y: 54}
+        - {x: 52.5, y: 106}
+        - {x: 34.5, y: 118}
+        - {x: 38.5, y: 149}
+        - {x: 69.5, y: 184.48022}
+        - {x: 69.5, y: 210.61493}
+        - {x: 25.902254, y: 204.46559}
+        - {x: 22.826082, y: 201.39091}
+        - {x: 22.826082, y: 190.62956}
+        - {x: 18.211824, y: 192.1669}
+        - {x: 21.287996, y: 193.70424}
+        - {x: 28.978426, y: 225.98828}
+        - {x: 38.206944, y: 242.89897}
+        - {x: 48.973545, y: 258.2723}
+        - {x: 58.20206, y: 290.55637}
+        - {x: 44.359287, y: 295}
+        - {x: -14.087981, y: 295}
+        - {x: -41.77353, y: 279.795}
+        - {x: -60.23056, y: 212.15227}
+        - {x: -40.235443, y: 189.09224}
+        - {x: -27.930756, y: 182.94289}
+        - {x: -26.39267, y: 175.25621}
+        - {x: -21.778412, y: 170.64421}
+        - {x: -27.930756, y: 169.10687}
+        - {x: -27.930756, y: 179.86823}
+        - {x: -31.006927, y: 182.94289}
+        - {x: -51.002045, y: 190.62956}
+        - {x: -66.382904, y: 193.70424}
+        - {x: -67.92099, y: 187.5549}
+        - {x: -67.92099, y: 136.82283}
+        - {x: -58.692474, y: 121.449486}
+        - {x: -34.0831, y: 95.31478}
+        - {x: -23.316498, y: 87.628105}
+        - {x: -15.626067, y: 79.94143}
+        - {x: -12.549895, y: 67.642746}
+        - {x: -20.240326, y: 83.016106}
+        - {x: -23.316498, y: 86.090775}
+        - {x: -31.006927, y: 92.24011}
+        - {x: -51.002045, y: 92.24011}
+        - {x: -52.5, y: 33}
+        - {x: -28.5, y: -29}
+        - {x: -55.5, y: -29}
+        - {x: -54.5, y: -113}
+        - {x: -45.5, y: -158}
+        - {x: -45.02417, y: -258.25766}
+        - {x: -44.8497, y: -295}
+        - {x: 28.978426, y: -295}
+        - {x: 69.5, y: -235.2123}
+        - {x: 69.5, y: -192.1669}
+        - {x: 64.35441, y: -176.79355}
+      - - {x: 1.2928784, y: 253.66031}
+        - {x: 1.2928784, y: 247.51097}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071c1bde81220cd0800000000000000
+      internalID: -2593473537966860535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_5
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 0
+        width: 136
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53746cef80c78300800000000000000
+      internalID: 254383628348584795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_6
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 0
+        width: 135
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: 298}
+        - {x: -65.5, y: 141}
+        - {x: -67.38383, y: -298}
+        - {x: 67.5, y: -298}
+        - {x: 65.5, y: 142}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9e37f694448ba0800000000000000
+      internalID: -6087665381114208572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_7
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 0
+        width: 128
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c04367255df3230800000000000000
+      internalID: 3620847175576325267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_8
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 128
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f2669ca9aa0be0800000000000000
+      internalID: -1510208166306842371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_9
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 0
+        width: 128
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e8e9a5a1b9e550800000000000000
+      internalID: 6190674487875790086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_10
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 128
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07c9b37a7a70a70800000000000000
+      internalID: 8793181134165668045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_obs_11
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 0
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116e276cd5238a6b0800000000000000
+      internalID: -5284918784376510959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
